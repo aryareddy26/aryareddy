@@ -1,2 +1,3 @@
-def fun_1():
-    print("Hello World")
+print('hi')
+print('hello')
+print('pfsd')
